@@ -1,1 +1,2 @@
-<?php new Exception("This is an error message.");
+<?php 
+new Exception("This is an error message.");
