@@ -14,4 +14,3 @@ curl_close($handle);
  
 echo $output;
 echo file_get_contents("https://sitehost.nz");
-
